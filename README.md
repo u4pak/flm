@@ -1,4 +1,4 @@
-<h1>FLM</h1>
+<h1>FLM Deluxe</h1>
 <p>Roblox crashing bot, the name stemming from an old inside joke project, "Frappe Lag Machine".</p>
 
 <hr>
