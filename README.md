@@ -9,7 +9,7 @@
 <hr>
 
 <h2>Special Note</h2>
-<p>While I (<a href="https://v3rmillion.net/member.php?action=profile&uid=1763716">reggie</a>) orignally came up and theorized about some of this method, we definately couldn't have done this without each-other! The bot/self-bot (proprietary) and extensions (The Lua code in this repo too) were "re"written by <a href="https://v3rmillion.net/member.php?action=profile&uid=1149709">LuaPhysics</a>. <a href="https://v3rmillion.net/member.php?action=profile&uid=2719846">Zu</a> also greatly helped with this operation/project, and even made a little GUI for messing with everyone! (Keeping that proprietary too ;))</p>
+<p>While I (<a href="https://v3rmillion.net/member.php?action=profile&uid=1763716">reggie</a>) originally came up and theorized about some of this method, we definitely couldn't have done this without each-other! The bot/self-bot (proprietary) and extensions (The Lua code in this repo too) were "re"written by <a href="https://v3rmillion.net/member.php?action=profile&uid=1149709">LuaPhysics</a>. <a href="https://v3rmillion.net/member.php?action=profile&uid=2719846">Zu</a> also greatly helped with this operation/project, and even made a little GUI for messing with everyone! (Keeping that proprietary too ;))</p>
 
 <hr>
 
