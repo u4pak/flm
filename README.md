@@ -1,5 +1,5 @@
 <h1>FLM Deluxe</h1>
-<p>Roblox crashing bot, the name stemming from an old inside joke project, "Frappe Lag Machine".</p>
+<p>Free & Open Source Crash Bot for Roblox, the name stemming from an old inside joke project, "Frappe Lag Machine".</p>
 
 <hr>
 
