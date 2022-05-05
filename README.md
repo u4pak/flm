@@ -29,7 +29,7 @@
 <h2>Image Catalogue!</h2>
 <p>Here, you'll see some "important" or relative images from the past with this, some even funny too..</p>
 
-<p>O_O (i was literally messing around with shit, lmao we all know this isnt the whole thing)</p>
+<p>i was just messing around with shit with roblox rep storage, lmao we all know this isnt the whole thing. my old account which was terminated had everything else related to the discussion with setplayerblocklist. :(</p>
 <img src="images/can_you_test_this_for_me.png" width="707" height="214">
 
 <br>
